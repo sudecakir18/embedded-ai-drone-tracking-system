@@ -36,6 +36,4 @@ Bu proje, **Raspberry Pi 5** gömülü platformu üzerinde çalışan; hava saha
   * **Drone Sınıfı Precision / Recall:** `%96.9` / `%96.2`[cite: 7]
 * **Saha Testi Çıkarım Hızı:** Gerçek dünya dış ortam testlerinde derin öğrenme, ROI takibi, HUD çizimi ve kapalı çevrim servo kontrolü eş zamanlı çalışırken **8.0 – 10.5 FPS** stabil operasyonel hız elde edilmiştir[cite: 7].
 
----
 
-## 📐 Sistem Akış Şeması
